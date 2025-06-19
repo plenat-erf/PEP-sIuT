@@ -12,7 +12,7 @@ A basic and janky household wifi signal mapping utility for windows. This was wr
 
 ## Manual Installation
 
-Check for python3 install:
+Check for python install:
 
 ```sh
 python -V
@@ -24,6 +24,8 @@ If no python install is found, follow the download and install instructions on t
 winget source reset
 winget install --id Python.Python.3 --source winget
 ```
+
+Download and extract sUiT.zip, then navigate to the wifi_map folder and open a CMD terminal from this location. 
 
 Install dependencies
 
